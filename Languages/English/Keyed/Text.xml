@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <TaHe.ModVersion>Installed mod-version: {0}</TaHe.ModVersion>
+  <TaHe.Reset>Reset</TaHe.Reset>
+  <TaHe.BiterLabel>Food the Biter gains from BloodFeeding on Living Pawns: {0}</TaHe.BiterLabel>
+  <TaHe.ShouldGet>Should BloodFeeding give Biter a Positive Moodlet</TaHe.ShouldGet>
+</LanguageData>
