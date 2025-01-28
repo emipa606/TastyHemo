@@ -4,7 +4,7 @@
     <operations>
       <!-- Modify the HemogenPack Nutrition -->
       <li Class="PatchOperationReplace">
-        <xpath>Defs/ThingDef[defName="HemogenPack"]/statBases/Nutrition</xpath>
+        <xpath>Defs/ThingDef[defName="HemogenPack" or defName="VRE_HemogenPack_Animal" or defName="VRE_HemogenPack_Corpse" or defName="VRE_HemogenPack_Sanguophage"]/statBases/Nutrition</xpath>
         <value>
           <Nutrition>1</Nutrition>
         </value>
@@ -18,7 +18,7 @@
       </li>
       <!-- Add the custom tasteThought to the HemogenPack -->
       <li Class="PatchOperationAdd">
-        <xpath>Defs/ThingDef[defName="HemogenPack"]/ingestible</xpath>
+        <xpath>Defs/ThingDef[defName="HemogenPack" or defName="VRE_HemogenPack_Animal" or defName="VRE_HemogenPack_Corpse" or defName="VRE_HemogenPack_Sanguophage"]/ingestible</xpath>
         <value>
           <tasteThought>IMJ_FineSippy</tasteThought>
         </value>

@@ -1,5 +1,3 @@
-using System.Reflection;
-using HarmonyLib;
 using Mlie;
 using UnityEngine;
 using Verse;
@@ -13,7 +11,6 @@ public class IMJ_Mod : Mod
     public IMJ_Mod(ModContentPack content)
         : base(content)
     {
-        new Harmony("Imoja.rimworld.TastyHemoBeta.main").PatchAll(Assembly.GetExecutingAssembly());
         currentVersion = VersionFromManifest.GetVersionFromModMetaData(content.ModMetaData);
     }
 

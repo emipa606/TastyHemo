@@ -1,5 +1,8 @@
 # Changelog for TastyHemo
 
+1.5.1 - Added compatibility with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2963116383]Vanilla Races Expanded - Sanguophage[/url]
+
+
 1.5.0 - First publish
 Used DeepL to update translations for ChineseSimplified, French, German
 

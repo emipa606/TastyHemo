@@ -1,4 +1,4 @@
-# [TastyHemo (Continued)]()
+# [TastyHemo (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3378134602)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -60,4 +60,6 @@ Xenohuman, Vamp, Vampire, Blood, Sippy, Sanguine, Sanguophage, Masquerade, etc..
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/TastyHemo?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/)
+[![Image](https://img.shields.io/github/v/release/emipa606/TastyHemo?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/) 
+
+[![Image](https://img.shields.io/github/v/release/emipa606/TastyHemo?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3378134602) | tags:  feeding
