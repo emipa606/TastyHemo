@@ -14,8 +14,8 @@ public static class SanguophageUtility_DoBite
             return true;
         }
 
-        nutritionGain = IMJ_Settings.TH_NutritionfromBloodFeed * victim.BodySize;
-        if (IMJ_Settings.TH_MoodletfromBloodFeed)
+        nutritionGain = IMJ_Settings.ThNutritionfromBloodFeed * victim.BodySize;
+        if (IMJ_Settings.ThMoodletfromBloodFeed)
         {
             biter.needs.mood?.thoughts?.memories?.TryGainMemory(ThoughtDef.Named("IMJ_LavishSippy"));
         }

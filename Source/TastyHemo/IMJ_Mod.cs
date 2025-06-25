@@ -6,12 +6,12 @@ namespace TastyHemo;
 
 public class IMJ_Mod : Mod
 {
-    public static string currentVersion;
+    public static string CurrentVersion;
 
     public IMJ_Mod(ModContentPack content)
         : base(content)
     {
-        currentVersion = VersionFromManifest.GetVersionFromModMetaData(content.ModMetaData);
+        CurrentVersion = VersionFromManifest.GetVersionFromModMetaData(content.ModMetaData);
     }
 
     public override void DoSettingsWindowContents(Rect inRect)

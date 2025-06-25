@@ -30,8 +30,8 @@ public static class CompAbilityEffect_CorpsefeederBite_DoBite
 
     public static bool Prefix(Pawn biter, Corpse corpse, ref float nutritionGain)
     {
-        nutritionGain = IMJ_Settings.TH_NutritionfromBloodFeed * (corpse.InnerPawn?.BodySize ?? 1f);
-        if (IMJ_Settings.TH_MoodletfromBloodFeed)
+        nutritionGain = IMJ_Settings.ThNutritionfromBloodFeed * (corpse.InnerPawn?.BodySize ?? 1f);
+        if (IMJ_Settings.ThMoodletfromBloodFeed)
         {
             biter.needs.mood?.thoughts?.memories?.TryGainMemory(ThoughtDef.Named("IMJ_LavishSippy"));
         }

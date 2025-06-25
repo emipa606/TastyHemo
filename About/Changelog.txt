@@ -1,5 +1,8 @@
 # Changelog for TastyHemo
 
+1.6.0 - Mod updated for 1.6 and passed autotests
+
+
 1.5.1 - Added compatibility with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2963116383]Vanilla Races Expanded - Sanguophage[/url]
 
 

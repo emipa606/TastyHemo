@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Blergh! Bad Sippy.... -->
+  <IMJ_BadSippy.stages.Blergh_Bad_Sippy.label>Blergh! Bad Sippy....</IMJ_BadSippy.stages.Blergh_Bad_Sippy.label>
+  <!-- EN: I will continue to subsist, but at what cost? Can we call this living anymore? -->
+  <IMJ_BadSippy.stages.Blergh_Bad_Sippy.description>I will continue to subsist, but at what cost? Can we call this living anymore?</IMJ_BadSippy.stages.Blergh_Bad_Sippy.description>
+  <!-- EN: Cold Sippy -->
+  <IMJ_FineSippy.stages.Cold_Sippy.label>Cold Sippy</IMJ_FineSippy.stages.Cold_Sippy.label>
+  <!-- EN: I ingested a hemogen pack. It nourished my body and my soul, but it was as cold as my heart. -->
+  <IMJ_FineSippy.stages.Cold_Sippy.description>I ingested a hemogen pack. It nourished my body and my soul, but it was as cold as my heart.</IMJ_FineSippy.stages.Cold_Sippy.description>
+  <!-- EN: Mmmm Sippy Sippy! -->
+  <IMJ_LavishSippy.stages.Mmmm_Sippy_Sippy.label>Mmmm Sippy Sippy!</IMJ_LavishSippy.stages.Mmmm_Sippy_Sippy.label>
+  <!-- EN: I have ingested live hemogen, I am a god among mere mortals and immortality runs through my very veins! -->
+  <IMJ_LavishSippy.stages.Mmmm_Sippy_Sippy.description>I have ingested live hemogen, I am a god among mere mortals and immortality runs through my very veins!</IMJ_LavishSippy.stages.Mmmm_Sippy_Sippy.description>
+</LanguageData>
